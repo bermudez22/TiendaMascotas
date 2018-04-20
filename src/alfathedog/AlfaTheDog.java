@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author steven
+ * @author jorge
  */
 public class AlfaTheDog extends javax.swing.JFrame {
 
